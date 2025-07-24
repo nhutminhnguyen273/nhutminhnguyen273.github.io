@@ -3,7 +3,7 @@
 This is my personal portfolio website built using **HTML**, **CSS**, and **JavaScript**
 
 ## Preview
-![Portfolio Screenshot](./assets/img/portfolio.png)
+![Portfolio Screenshot](portfolio.png)
 
 ---
 
